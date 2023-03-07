@@ -1,0 +1,3 @@
+let v1 = "É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER"
+
+console.log(`${v1}`)
